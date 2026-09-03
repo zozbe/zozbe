@@ -21,8 +21,6 @@ I'm a **Software Developer** and a **Computer Engineering graduate** from Türki
 
 I enjoy building web applications and exploring both the **technical and visual sides of software**. I am especially interested in **frontend development, UI/UX, backend systems, APIs, and software architecture**.
 
-I gained real-world experience during my internship at **ThinkBro Yapay Zeka Bilişim ve Danışmanlık**, where I worked on management systems, backend development, and API integrations.
-
 I'm currently exploring different areas of software development, building projects, learning new technologies, and trying to understand what I enjoy most.
 
 ---
