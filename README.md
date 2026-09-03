@@ -4,7 +4,7 @@ I'm a Software Developer from Türkiye. I like building web applications, APIs, 
 
 I gained real-world experience during my internship at **ThinkBro Yapay Zeka Bilişim ve Danışmanlık**, where I worked on management systems, backend development, and API integrations. 
 
-Currently, I am working on **DevTrack**, a backend project built with FastAPI and Clean Architecture. I use this project to improve my backend skills and learn more about testing, databases, Docker, and CI/CD. I also like sharing what I learn. I write about my projects and development journey on [Medium](#). *(Buraya Medium linkini eklemeyi unutma)*
+Currently, I am working on **DevTrack**, a backend project built with FastAPI and Clean Architecture. I use this project to improve my backend skills and learn more about testing, databases, Docker, and CI/CD. I also like sharing what I learn. I write about my projects and development journey on [Medium](#). 
 
 ### 🛠️ Technologies & Tools
 
