@@ -1,11 +1,11 @@
 # 👩‍💻 Hi, I'm Berfin Zozan İnanç
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1200&color=E63946&center=true&vCenter=true&width=650&lines=Software+Developer;Backend+%26+API+Developer;Clean+Architecture+Enthusiast;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E63946&center=false&vCenter=false&width=600&lines=Software+Developer;Full-Stack+Developer;Frontend+%26+UI%2FUX+Enthusiast;AI+%26+Data+Enthusiast;Always+Learning,+Always+Building" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/berfinzozan-inan%C3%A7-6195b5268">
+<p align="left">
+  <a href="https://www.linkedin.com/in/berfinzozaninanc/">    
     <img src="https://img.shields.io/badge/LinkedIn-E63946?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/zozbe">
@@ -19,8 +19,7 @@
 
 I'm a **Software Developer** and a **Computer Engineering graduate** from Türkiye.
 
-I enjoy building web applications, APIs, and backend systems. I am especially interested in:
-
+I enjoy building web applications, APIs, and backend systems. I am especially interested in:  
 **Backend Development · APIs · Clean Architecture · Databases · Software Design**
 
 I gained real-world experience during my internship at **ThinkBro Yapay Zeka Bilişim ve Danışmanlık**, where I worked on management systems, backend development, and API integrations.
@@ -32,45 +31,23 @@ These days, I am focusing more on backend development and software architecture.
 ## 🚀 Currently Building
 
 <table>
-<tr>
-<td width="70%">
-
-### ⚙️ DevTrack
-
-A backend task management API that I am building to improve my backend development skills.
-
-**Main technologies:**
-
-`FastAPI` `Python` `MySQL` `Clean Architecture` `JWT`
-
-`Pytest` `Alembic` `Docker` `GitHub Actions`
-
-I'm building it step by step and documenting the process through my **DevTrack** writing series.
-
-</td>
-
-<td width="30%" align="center">
-
-### 🔴 STATUS
-
-**BUILDING**
-
-⚙️
-
-**LEARNING**
-
-🧠
-
-**DEBUGGING**
-
-🐛
-
-**REPEATING**
-
-🔁
-
-</td>
-</tr>
+  <tr>
+    <td width="70%">
+      ### [⚙️ DevTrack](https://github.com/zozbe/devtrack)
+      A backend task management API that I am building to improve my backend development skills.<br><br>
+      **Main technologies:**<br>
+      `FastAPI` `Python` `MySQL` `Clean Architecture` `JWT`<br>
+      `Pytest` `Alembic` `Docker` `GitHub Actions`<br><br>
+      I'm building it step by step and documenting the process through my **DevTrack** writing series.
+    </td>
+    <td width="30%" align="center">
+      ### 🔴 STATUS<br>
+      **BUILDING** ⚙️<br>
+      **LEARNING** 🧠<br>
+      **DEBUGGING** 🐛<br>
+      **REPEATING** 🔁
+    </td>
+  </tr>
 </table>
 
 ---
@@ -78,86 +55,63 @@ I'm building it step by step and documenting the process through my **DevTrack**
 ## 🛠️ What I Work With
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-### ⚙️ Backend
-
-* Python
-* FastAPI
-* C#
-* .NET
-* Java
-* PHP
-* REST APIs
-* JWT Authentication
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🧱 Architecture
-
-* Clean Architecture
-* Repository Pattern
-* Dependency Injection
-* Separation of Concerns
-* API Design
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🗄️ Data
-
-* MySQL
-* SQL Server
-* Pandas
-* TensorFlow
-* Keras
-* Scikit-learn
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🚀 Tools
-
-* Git
-* GitHub
-* Docker
-* GitHub Actions
-* Pytest
-* Alembic
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🎨 Frontend
-
-* React
-* React Native
-* Expo
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🤖 Interests
-
-* Backend Development
-* Software Architecture
-* AI & Data
-* Automation
-* Continuous Learning
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      ### ⚙️ Backend
+      * Python
+      * FastAPI
+      * C#
+      * .NET
+      * Java
+      * PHP
+      * REST APIs
+      * JWT Authentication
+    </td>
+    <td width="50%" valign="top">
+      ### 🧱 Architecture
+      * Clean Architecture
+      * Repository Pattern
+      * Dependency Injection
+      * Separation of Concerns
+      * API Design
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      ### 🗄️ Data
+      * MySQL
+      * SQL Server
+      * Pandas
+      * TensorFlow
+      * Keras
+      * Scikit-learn
+    </td>
+    <td width="50%" valign="top">
+      ### 🚀 Tools
+      * Git
+      * GitHub
+      * Docker
+      * GitHub Actions
+      * Pytest
+      * Alembic
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      ### 🎨 Frontend
+      * React
+      * React Native
+      * Expo
+    </td>
+    <td width="50%" valign="top">
+      ### 🤖 Interests
+      * Backend Development
+      * Software Architecture
+      * AI & Data
+      * Automation
+      * Continuous Learning
+    </td>
+  </tr>
 </table>
 
 ---
@@ -165,106 +119,57 @@ I'm building it step by step and documenting the process through my **DevTrack**
 # 💻 Featured Projects
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-## ⚙️ DevTrack
-
-Backend task management API built with **FastAPI and Clean Architecture**.
-
-**Includes:**
-
-* Repository Pattern
-* Dependency Injection
-* JWT Authentication
-* MySQL
-* Alembic
-* Pytest
-* Docker
-* GitHub Actions
-
-🔴 **Currently in development**
-
-</td>
-
-<td width="50%" valign="top">
-
-## 🎓 ADYS
-
-**Academic Journal Management System**
-
-An academic journal management platform with **11 different user roles**.
-
-**Focus areas:**
-
-* Role-based systems
-* API integrations
-* Database operations
-* Localization
-* Management panels
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-## 📚 Akıl Kütüphanesi
-
-A QR code-supported question and answer platform developed as a **TÜBİTAK project**.
-
-Users can ask questions, share answers, and interact with other students.
-
-**Stack:**
-
-`Python` `FastAPI` `React` `MySQL`
-
-</td>
-
-<td width="50%" valign="top">
-
-## 📱 Akıllı Kampüs Asistanı
-
-A campus assistant project developed under the **TÜBİTAK framework**.
-
-The project provides useful campus information through a web application.
-
-**Stack:**
-
-`React`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-## 🎬 CineJury
-
-A mobile application for evaluating movies.
-
-It uses the **TMDB API** and includes an equalizer-style scoring system.
-
-**Stack:**
-
-`React Native` `Expo` `TMDB API`
-
-</td>
-
-<td width="50%" valign="top">
-
-## 🧠 DeepHAR
-
-A deep learning project for **human activity recognition**.
-
-The project includes data preprocessing, model training, and classification.
-
-**Stack:**
-
-`TensorFlow` `Keras` `Scikit-learn`
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      ## [⚙️ DevTrack](https://github.com/zozbe/devtrack)<br>
+      Backend task management API built with **FastAPI and Clean Architecture**.<br><br>
+      **Includes:**<br>
+      * Repository Pattern
+      * Dependency Injection
+      * JWT Authentication
+      * MySQL & Alembic
+      * Pytest, Docker, GitHub Actions<br><br>
+      🔴 **Currently in development**
+    </td>
+    <td width="50%" valign="top">
+      ## 🎓 ADYS<br>
+      **Academic Journal Management System**<br><br>
+      An academic journal management platform with **11 different user roles**.<br><br>
+      **Focus areas:**<br>
+      * Role-based systems
+      * API integrations
+      * Database operations
+      * Localization & Management panels
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      ## [📚 Akıl Kütüphanesi](https://www.akilkutuphanesi.com/)<br>
+      A QR code-supported question and answer platform developed as a **TÜBİTAK project**.<br><br>
+      Users can ask questions, share answers, and interact with other students.<br><br>
+      **Stack:** `Python` `FastAPI` `React` `MySQL`
+    </td>
+    <td width="50%" valign="top">
+      ## [📱 Akıllı Kampüs Asistanı](https://github.com/zozbe/AkilliKampusAsistani2)<br>
+      A campus assistant project developed under the **TÜBİTAK framework**.<br><br>
+      The project provides useful campus information through a web application.<br><br>
+      **Stack:** `React`
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      ## 🎬 CineJury<br>
+      A mobile application for evaluating movies.<br><br>
+      It uses the **TMDB API** and includes an equalizer-style scoring system.<br><br>
+      **Stack:** `React Native` `Expo` `TMDB API`
+    </td>
+    <td width="50%" valign="top">
+      ## [🧠 DeepHAR](https://github.com/zozbe/human-activity-recognition-dl)<br>
+      A deep learning project for **human activity recognition**.<br><br>
+      The project includes data preprocessing, model training, and classification.<br><br>
+      **Stack:** `TensorFlow` `Keras` `Scikit-learn`
+    </td>
+  </tr>
 </table>
 
 ---
@@ -298,65 +203,18 @@ Industry Internship
         │
         ▼
       DevTrack 🚀
-```
-
 I'm still learning, building, breaking things, fixing them, and learning again.
 
----
+✍️ From Code to Words
+I like documenting what I learn while building projects. My DevTrack series is where I share my backend development journey and the problems I face along the way.
 
-# ✍️ From Code to Words
+📖 Topics I write about:
 
-I like documenting what I learn while building projects.
+FastAPI · Clean Architecture · MySQL · Dependency Injection · Testing · Docker · CI/CD
 
-My **DevTrack** series is where I share my backend development journey and the problems I face along the way.
+📊 GitHub Activity
+🐍 A little GitHub tradition
+(Note: To make the snake animation work, you will need to set up the GitHub Action for it in your profile repository.)
 
-### 📖 Topics I write about
-
-`FastAPI` · `Clean Architecture` · `MySQL`
-
-`Dependency Injection` · `Testing` · `Docker` · `CI/CD`
-
-<p align="center">
-
-<a href="https://medium.com/@berfin.zozan">
-<img src="https://img.shields.io/badge/Read_my_articles-141414?style=for-the-badge&logo=medium&logoColor=white" />
-</a>
-
-</p>
-
----
-
-# 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zozbe&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E63946&icon_color=E63946&text_color=C9D1D9&rank_icon=github" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zozbe&layout=compact&hide_border=true&bg_color=0D1117&title_color=E63946&text_color=C9D1D9" height="170" />
-</p>
-
----
-
-## 🐍 A little GitHub tradition
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/zozbe/zozbe/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake" />
-</p>
-
----
-
-# 📫 Let's Connect
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/berfinzozan-inan%C3%A7-6195b5268">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-E63946?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:berfin.zozan@hotmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-141414?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-</p>
-
-<p align="center">
-  <i>Building today. Learning every day. 🚀</i>
-</p>
+📫 Let's Connect
+If you'd like to talk about software architecture, backend development, or just want to say hi, feel free to reach out!
