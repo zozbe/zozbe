@@ -247,7 +247,6 @@ Users can ask questions, share answers, and interact with other students.
 
 <h2>📱 <a href="https://github.com/zozbe/AkilliKampusAsistani2">Akıllı Kampüs Asistanı</a></h2>
 
-A campus assistant project developed under the **TÜBİTAK framework**.
 
 <br>
 
